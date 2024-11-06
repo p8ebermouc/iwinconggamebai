@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+IWIN - Cổng Game Bài Uy Tín, Đẳng Cấp Thượng Lưu Châu Á
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`IWIN <https://cffresearch.org/>`_ là cổng game bài đổi thưởng uy tín, mang đẳng cấp thượng lưu và được ưa chuộng tại thị trường châu Á. Đến tháng 1/2024, IWIN đã thu hút gần 1 triệu lượt tải và có hơn 300.000 lượt truy cập mỗi ngày. Hỗ trợ trên cả ứng dụng di động và website, IWIN mang lại trải nghiệm mượt mà và ổn định cho người chơi. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Với nhiều ưu đãi hấp dẫn, IWIN cung cấp khuyến mãi lên đến 350K cho tân thủ và tặng 100% giá trị nạp đầu tiên. Ngoài ra, hàng tháng, người chơi còn nhận được nhiều quà tặng giá trị. IWIN cung cấp nhiều game đa dạng như casino, thể thao, bầu cua, xóc đĩa, và người chơi có thể dễ dàng truy cập qua các link tải mới nhất cho các thiết bị Android, iOS và APK.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 581 P. Kim Mã, Ngọc Khánh, Ba Đình, Hà Nội, Vietnam. 
 
-Contents
---------
+Phone: 0969433130. 
 
-.. toctree::
+Email: cskhiwin@gmail.com. 
 
-   usage
-   api
+Website: https://cffresearch.org/
+
+#iwin #dangkyiwin #dangnhapiwin #linkiwin
